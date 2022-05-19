@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephbudina)](https://github.com/josephbudina/github-readme-stats)
+[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephbudina&show_icons=true&theme=merko)](https://github.com/josephbudina/github-readme-stats)
 
 <!--
 **josephbudina/josephbudina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
