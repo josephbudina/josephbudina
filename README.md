@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephbudina&show_icons=true&theme=gruvbox)](https://github.com/josephbudina/github-readme-stats)
-
 ### Tech Stack:
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
